@@ -7,7 +7,7 @@ public class PrimeNo {
 		int ans = n/2;
         if (n <= 1)
             return false;
- 
+  
         else if (n == 2)
             return true;
  
